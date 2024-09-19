@@ -5,20 +5,94 @@ NUI.HidingBarData = {
 	["config"] = {
 	["addFromDataBroker"] = true,
 	["mbtnSettings"] = {
+	["LibDBIcon10_RareScannerMinimapIcon"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_ItemRack"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_RXPGuides"] = {
+	["tstmp"] = 1708620959,
+	},
+	["LibDBIcon10_PallyPower"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_AtlasLoot"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_Leatrix_Maps"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_Questie"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_WeakAuras"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_BigWigs"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_Details"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_Atlas"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_DetailsStreamer"] = {
+	["tstmp"] = 1712198635,
+	},
+	["Lib_GPI_Minimap_LFGBulletinBoard"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_Plater"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_NovaInstanceTracker"] = {
+	["tstmp"] = 1712198635,
+	},
+	["LibDBIcon10_NovaWorldBuffs"] = {
+	["tstmp"] = 1712198635,
+	},
 	},
 	["btnSettings"] = {
+	["LFGBulletinBoard"] = {
+	["tstmp"] = 1712198635,
+	},
+	["Atlas"] = {
+	["tstmp"] = 1712198635,
+	},
+	["NWB"] = {
+	["tstmp"] = 1712198635,
+	},
+	["NIT"] = {
+	["tstmp"] = 1712198635,
+	},
+	["BattlegroundTargets"] = {
+	["tstmp"] = 1712198635,
+	},
+	["ItemRack"] = {
+	["tstmp"] = 1712198635,
+	},
+	["AtlasLoot"] = {
+	["tstmp"] = 1712198635,
+	},
 	["HidingBar"] = {
-	["tstmp"] = 1726569541,
+	["tstmp"] = 1722785263,
+	},
+	["WeakAuras"] = {
+	["tstmp"] = 1712198635,
+	},
+	["BigWigs"] = {
+	["tstmp"] = 1712198635,
 	},
 	},
 	["grabMinimap"] = true,
 	["grabMinimapAfterN"] = 1,
-	["ombGrabQueue"] = {
-	},
 	["customGrabList"] = {
 	},
+	["ombGrabQueue"] = {
+	},
 	["ignoreMBtn"] = {
-	"GatherMatePin",
 	},
 	},
 	["name"] = "Naowh",
@@ -27,8 +101,8 @@ NUI.HidingBarData = {
 	["isDefault"] = true,
 	["config"] = {
 	["lineWidth"] = 4,
-	["secondPosition"] = -130.1333534119659,
-	["hideHandler"] = 2,
+	["secondPosition"] = 0,
+	["rangeBetweenBtns"] = 0,
 	["lineBorderColor"] = {
 	1,
 	1,
@@ -44,16 +118,16 @@ NUI.HidingBarData = {
 	1,
 	},
 	["anchor"] = "top",
-	["barOffset"] = 0,
-	["barTypePosition"] = 1,
+	["lineTexture"] = "Solid",
+	["barTypePosition"] = 0,
 	["size"] = 10,
 	["interceptTooltipPosition"] = 0,
 	["lineColor"] = {
+	0.8,
+	0.6,
 	0,
-	0.6392156862745098,
-	1,
 	},
-	["position"] = 1258.666829614769,
+	["position"] = 682.6666870117188,
 	["mbtnPosition"] = 2,
 	["lineBorderEdge"] = false,
 	["lineBorderOffset"] = 1,
@@ -70,29 +144,25 @@ NUI.HidingBarData = {
 	["gapSize"] = 0,
 	["interceptTooltip"] = true,
 	["buttonDirection"] = {
-	["H"] = 0,
 	["V"] = 0,
+	["H"] = 0,
 	},
 	["borderOffset"] = 4,
 	["omb"] = {
-	["size"] = 31,
-	["distanceToBar"] = 0,
-	["lock"] = true,
+	["hide"] = true,
 	["anchor"] = "right",
 	["barDisplacement"] = 0,
-	["canGrabbed"] = false,
-	["hide"] = true,
+	["size"] = 31,
+	["distanceToBar"] = 0,
 	},
 	["buttonSize"] = 31,
-	["frameStrata"] = 0,
+	["frameStrata"] = 2,
 	["lineBorderSize"] = 2,
-	["lineTexture"] = "Solid",
-	["borderSize"] = 16,
 	["fadeOpacity"] = 0.2,
 	["orientation"] = 0,
-	["rangeBetweenBtns"] = 0,
-	["fade"] = false,
-	["lock"] = true,
+	["barOffset"] = 2,
+	["hideHandler"] = 2,
+	["borderSize"] = 16,
 	},
 	["name"] = "Bar 1",
 	},

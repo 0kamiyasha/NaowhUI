@@ -9,9 +9,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -22,11 +20,13 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
 		}, -- [1]
 		{
 			["customBorderColor"] = {
@@ -35,36 +35,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Smoke Bomb",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [2]
-		nil, -- [3]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -75,12 +46,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [4]
+		}, -- [2]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -88,25 +61,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Pillar of Frost",
+			["spellName"] = "Unbreakable Armor",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [5]
+		}, -- [3]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -114,9 +87,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -127,12 +98,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [6]
+		}, -- [4]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -140,9 +113,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -153,12 +124,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [7]
+		}, -- [5]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -166,9 +139,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -179,12 +150,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [8]
+		}, -- [6]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -192,9 +165,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -205,14 +176,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [9]
-		nil, -- [10]
-		nil, -- [11]
+		}, -- [7]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -220,25 +191,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Horde Flag",
+			["spellName"] = "Warsong Flag",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [12]
+		}, -- [8]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -246,9 +217,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -259,14 +228,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [13]
-		nil, -- [14]
-		nil, -- [15]
+		}, -- [9]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -274,9 +243,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -287,14 +254,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [16]
-		nil, -- [17]
-		nil, -- [18]
+		}, -- [10]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -302,9 +269,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -315,12 +280,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [19]
+		}, -- [11]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -328,9 +295,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -341,12 +306,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [20]
+		}, -- [12]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -354,9 +321,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -367,12 +332,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [21]
+		}, -- [13]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -380,63 +347,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Ice Floes",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [22]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Serenity",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [23]
-		nil, -- [24]
-		nil, -- [25]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -447,12 +358,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [26]
+		}, -- [14]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -460,35 +373,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Soul Harvest",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [27]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -499,14 +384,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [28]
-		nil, -- [29]
-		nil, -- [30]
+		}, -- [15]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -514,9 +399,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Bash",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [16]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -527,12 +436,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [31]
+		}, -- [17]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -540,25 +451,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Combat Readiness",
+			["spellName"] = "Demoralizing Roar",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [32]
+		}, -- [18]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -566,36 +477,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Ascendance",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [33]
-		nil, -- [34]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -606,12 +488,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [35]
+		}, -- [19]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -619,9 +503,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -632,12 +514,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [36]
+		}, -- [20]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -645,9 +529,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -658,13 +540,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [37]
-		nil, -- [38]
+		}, -- [21]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -672,9 +555,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -685,12 +566,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [39]
+		}, -- [22]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -698,36 +581,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Blur",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [40]
-		nil, -- [41]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -738,12 +592,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [42]
+		}, -- [23]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -751,9 +607,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -764,12 +618,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [43]
+		}, -- [24]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -777,9 +633,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -790,13 +644,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [44]
-		nil, -- [45]
+		}, -- [25]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -804,9 +659,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -817,14 +670,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [46]
-		nil, -- [47]
-		nil, -- [48]
+		}, -- [26]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -832,9 +685,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Death Coil",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [27]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -845,12 +722,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [49]
+		}, -- [28]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -858,9 +737,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -871,12 +748,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [50]
+		}, -- [29]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -884,9 +763,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -897,12 +774,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [51]
+		}, -- [30]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -910,9 +789,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -923,13 +800,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [52]
-		nil, -- [53]
+		}, -- [31]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -937,9 +815,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -950,12 +826,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [54]
+		}, -- [32]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -963,35 +841,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Guardian of Ancient Kings",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [55]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1002,12 +852,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [56]
+		}, -- [33]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1015,9 +867,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1028,14 +878,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [57]
-		nil, -- [58]
-		nil, -- [59]
+		}, -- [34]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1043,9 +893,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1056,12 +904,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [60]
+		}, -- [35]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1069,61 +919,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Solar Beam",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [61]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Astral Shift",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [62]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1134,12 +930,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [63]
+		}, -- [36]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1147,9 +945,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1160,12 +956,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [64]
+		}, -- [37]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1173,25 +971,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Netherwalk",
+			["spellName"] = "Silverwing Flag",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [65]
+		}, -- [38]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1199,62 +997,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Archangel",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [66]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Alliance Flag",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [67]
-		nil, -- [68]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1265,12 +1008,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [69]
+		}, -- [39]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1278,9 +1023,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1291,12 +1034,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [70]
+		}, -- [40]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1304,9 +1049,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1317,12 +1060,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [71]
+		}, -- [41]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1330,61 +1075,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Chaos Nova",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [72]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Meteor Strike",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [73]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1395,14 +1086,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [74]
-		nil, -- [75]
-		nil, -- [76]
+		}, -- [42]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1410,9 +1101,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1423,13 +1112,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [77]
-		nil, -- [78]
+		}, -- [43]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1437,9 +1127,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Hand of Freedom",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [44]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1450,15 +1164,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [79]
-		nil, -- [80]
-		nil, -- [81]
-		nil, -- [82]
+		}, -- [45]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1466,25 +1179,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Freezing Trap",
+			["spellName"] = "Predator's Swiftness",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [83]
+		}, -- [46]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1492,25 +1205,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Paralysis",
+			["spellName"] = "Rapid Fire",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [84]
+		}, -- [47]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1518,25 +1231,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Sharpen Blade",
+			["spellName"] = "Freezing Trap Effect",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [85]
+		}, -- [48]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1544,9 +1257,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1557,13 +1268,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [86]
-		nil, -- [87]
+		}, -- [49]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1571,9 +1283,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Divine Illumination",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [50]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1584,12 +1320,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [88]
+		}, -- [51]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1597,183 +1335,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Mesmerize",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [89]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Darkness",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [90]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Charge",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [91]
-		nil, -- [92]
-		nil, -- [93]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Sin and Punishment",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [94]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Last Word",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [95]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
+			["playerNpcMode"] = 2,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
 			["spellName"] = "Unstable Affliction",
-			["enabledState"] = 1,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [96]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Ring of Frost",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [97]
+		}, -- [52]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1781,25 +1361,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Eye for an Eye",
+			["spellName"] = "Hand of Protection",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [98]
+		}, -- [53]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1807,114 +1387,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Asphyxiate",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [99]
-		nil, -- [100]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Blinding Light",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [101]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Blessing of Protection",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [102]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Metamorphosis",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [103]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1925,12 +1398,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [104]
+		}, -- [54]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1938,9 +1413,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1951,15 +1424,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [105]
-		nil, -- [106]
-		nil, -- [107]
-		nil, -- [108]
+		}, -- [55]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1967,9 +1439,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -1980,12 +1450,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [109]
+		}, -- [56]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -1993,113 +1465,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Nether Ward",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [110]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Die by the Sword",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [111]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Storm Bolt",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [112]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Entrapment",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [113]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2110,12 +1476,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [114]
+		}, -- [57]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2123,88 +1491,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Static Charge",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [115]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Shadow Blades",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [116]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Axe Toss",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [117]
-		nil, -- [118]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2215,13 +1502,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [119]
-		nil, -- [120]
+		}, -- [58]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2229,35 +1517,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Shadow Reflection",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [121]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2268,12 +1528,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [122]
+		}, -- [59]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2281,35 +1543,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Avatar",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [123]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2320,12 +1554,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [124]
+		}, -- [60]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2333,9 +1569,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2346,12 +1580,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [125]
+		}, -- [61]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2359,9 +1595,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2372,12 +1606,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [126]
+		}, -- [62]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2385,38 +1621,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Rake",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["checkSpellID"] = {
-				[163505] = true,
-			},
 			["glowType"] = 3,
-		}, -- [127]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2427,12 +1632,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [128]
+		}, -- [63]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2440,9 +1647,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2453,12 +1658,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [129]
+		}, -- [64]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2466,9 +1673,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2479,13 +1684,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [130]
-		nil, -- [131]
+		}, -- [65]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2493,35 +1699,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Dark Archangel",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [132]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2532,12 +1710,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [133]
+		}, -- [66]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2545,9 +1725,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2558,12 +1736,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [134]
+		}, -- [67]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2571,35 +1751,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Ethereal Form",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [135]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2610,12 +1762,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [136]
+		}, -- [68]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2623,9 +1777,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2636,13 +1788,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [137]
-		nil, -- [138]
+		}, -- [69]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2650,25 +1803,25 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
 			["customBorderPath"] = "",
-			["spellName"] = "Fists of Fury",
+			["spellName"] = "Charge Stun",
 			["enabledState"] = 2,
 			["auraType"] = 3,
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [139]
+		}, -- [70]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2676,35 +1829,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Shockwave",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [140]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2715,12 +1840,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [141]
+		}, -- [71]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2728,9 +1855,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2741,13 +1866,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [142]
-		nil, -- [143]
+		}, -- [72]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2755,9 +1881,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Elemental Mastery",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [73]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2768,12 +1918,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [144]
+		}, -- [74]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2781,9 +1933,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2794,13 +1944,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [145]
-		nil, -- [146]
+		}, -- [75]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2808,9 +1959,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2821,12 +1970,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [147]
+		}, -- [76]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2834,36 +1985,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Holy Word: Chastise",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
 			["glowType"] = 3,
-		}, -- [148]
-		nil, -- [149]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2874,12 +1996,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [150]
+		}, -- [77]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2887,9 +2011,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2900,12 +2022,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [151]
+		}, -- [78]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2913,9 +2037,7 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2926,13 +2048,14 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
+			["iconGroups"] = {
+				true, -- [1]
+			},
 			["customBorderType"] = 3,
 			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [152]
-		nil, -- [153]
+		}, -- [79]
 		{
 			["customBorderColor"] = {
 				1, -- [1]
@@ -2940,9 +2063,33 @@ NUI.NameplateAurasData = {
 				0.1, -- [3]
 				1, -- [4]
 			},
+			["glowType"] = 3,
+			["playerNpcMode"] = 1,
+			["animationType"] = 2,
+			["iconSizeWidth"] = 42,
+			["customBorderPath"] = "",
+			["spellName"] = "Hand of Sacrifice",
+			["enabledState"] = 2,
+			["auraType"] = 3,
+			["showOnEnemies"] = true,
+			["animationDisplayMode"] = 1,
+			["showOnFriends"] = true,
+			["customBorderSize"] = 2,
+			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
+			["customBorderType"] = 3,
+			["iconSizeHeight"] = 42,
+		}, -- [80]
+		{
+			["customBorderColor"] = {
+				1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				1, -- [4]
+			},
+			["glowType"] = 3,
 			["playerNpcMode"] = 1,
 			["animationType"] = 2,
 			["iconSizeWidth"] = 42,
@@ -2953,312 +2100,27 @@ NUI.NameplateAurasData = {
 			["showOnEnemies"] = true,
 			["animationDisplayMode"] = 1,
 			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [154]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Disarm",
-			["enabledState"] = 2,
-			["auraType"] = 2,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [155]
-		nil, -- [156]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Duel",
-			["enabledState"] = 2,
-			["auraType"] = 2,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [157]
-		nil, -- [158]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Intimidating Roar",
-			["enabledState"] = 2,
-			["auraType"] = 2,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["glowType"] = 3,
-		}, -- [159]
-		nil, -- [160]
-		nil, -- [161]
-		nil, -- [162]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Wracking Pain",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["animationTimer"] = 10,
-			["checkSpellID"] = {
-				[329181] = true,
-			},
-			["glowType"] = 3,
-		}, -- [163]
-		nil, -- [164]
-		nil, -- [165]
-		nil, -- [166]
-		nil, -- [167]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeHeight"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Infernal Awakening",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["animationTimer"] = 10,
-			["iconSizeWidth"] = 42,
-			["customBorderType"] = 3,
-			["glowType"] = 3,
-			["checkSpellID"] = {
-				[22703] = true,
-			},
-		}, -- [168]
-		{
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Intimidation",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["animationTimer"] = 10,
-			["customBorderType"] = 3,
-			["iconSizeHeight"] = 42,
-			["glowType"] = 3,
-			["checkSpellID"] = {
-				[24394] = true,
-			},
-		}, -- [169]
-		[183] = {
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeHeight"] = 45,
-			["customBorderPath"] = "",
-			["spellName"] = "Time Stop",
-			["overrideSize"] = true,
-			["enabledState"] = 2,
-			["auraType"] = 1,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
 			["customBorderSize"] = 2,
-			["customBorderType"] = 3,
-			["animationTimer"] = 10,
-			["iconSizeWidth"] = 45,
-			["glowType"] = 3,
-		},
-		[186] = {
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeHeight"] = 45,
-			["customBorderPath"] = "",
-			["spellName"] = "Time Dilation",
-			["overrideSize"] = true,
-			["enabledState"] = 2,
-			["auraType"] = 1,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 2,
-			["customBorderType"] = 3,
-			["animationTimer"] = 10,
-			["iconSizeWidth"] = 45,
-			["glowType"] = 3,
-		},
-		[188] = {
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["checkSpellID"] = {
-				[386071] = true,
-			},
-			["playerNpcMode"] = 1,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Disrupting Shout",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
 			["animationTimer"] = 10,
 			["iconGroups"] = {
 				true, -- [1]
 			},
 			["customBorderType"] = 3,
-			["glowType"] = 3,
 			["iconSizeHeight"] = 42,
-		},
-		[197] = {
-			["customBorderColor"] = {
-				1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				1, -- [4]
-			},
-			["iconGroups"] = {
-				true, -- [1]
-			},
-			["playerNpcMode"] = 3,
-			["animationType"] = 2,
-			["iconSizeWidth"] = 42,
-			["customBorderPath"] = "",
-			["spellName"] = "Enrage",
-			["enabledState"] = 2,
-			["auraType"] = 3,
-			["showOnEnemies"] = true,
-			["animationDisplayMode"] = 1,
-			["showOnFriends"] = true,
-			["customBorderSize"] = 1,
-			["animationTimer"] = 10,
-			["iconSizeHeight"] = 42,
-			["glowType"] = 3,
-			["customBorderType"] = 3,
-			["checkSpellID"] = {
-				[38166] = true,
-			},
-		},
+		}, -- [81]
 	},
 	["DBVersion"] = 25,
 	["IconGroups"] = {
 		{
 			["StacksTextAnchor"] = "TOP",
-			["AlwaysShowMyAurasBlacklist"] = {
-			},
+			["InterruptsEnabled"] = false,
 			["BorderFilePath"] = "Interface\\AddOns\\NameplateAuras\\media\\custom-example.tga",
 			["StacksFontScale"] = 1.2,
 			["Additions_DRPvP"] = false,
 			["UseTargetAlphaIfNotTargetSelected"] = false,
 			["InterruptsIconSizeHeight"] = 45,
-			["ShowCooldownText"] = true,
-			["ShowOnlyOnTarget"] = false,
+			["TimerTextUseRelativeScale"] = true,
+			["TimerTextYOffset"] = 0,
 			["Additions_DispellableSpells_Blacklist"] = {
 			},
 			["Additions_DispellableSpells"] = false,
@@ -3279,7 +2141,6 @@ NUI.NameplateAurasData = {
 			["BorderThickness"] = 1,
 			["NonTargetStrata"] = "MEDIUM",
 			["BorderType"] = 1,
-			["ShowCooldownSwipeEdge"] = true,
 			["TimerTextUnderMinuteColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -3299,7 +2160,9 @@ NUI.NameplateAurasData = {
 			["StacksTextAnchorIcon"] = "TOP",
 			["Font"] = "GothamNarrowUltra",
 			["ShowAuraTooltip"] = false,
+			["MasqueEnabled"] = false,
 			["StacksTextYOffset"] = 5,
+			["ShowAurasOnTargetEvenInDisabledAreas"] = false,
 			["DebuffBordersOtherColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -3326,14 +2189,14 @@ NUI.NameplateAurasData = {
 			["AlwaysShowMyAuras"] = false,
 			["IconGrowDirection"] = 1,
 			["EnabledZoneTypes"] = {
-				["none"] = true,
+				["pvp"] = true,
 				["party"] = true,
 				["scenario"] = true,
 				["pvp_bg_40ppl"] = true,
-				["unknown"] = true,
 				["arena"] = true,
 				["raid"] = true,
-				["pvp"] = true,
+				["unknown"] = true,
+				["none"] = true,
 			},
 			["TimerTextSoonToExpireColor"] = {
 				1, -- [1]
@@ -3350,7 +2213,6 @@ NUI.NameplateAurasData = {
 				0, -- [3]
 				1, -- [4]
 			},
-			["ShowAurasOnAlliedTargetEvenInDisabledAreas"] = false,
 			["IconZoom"] = 0.07,
 			["BuffBordersColor"] = {
 				0, -- [1]
@@ -3358,30 +2220,31 @@ NUI.NameplateAurasData = {
 				0, -- [3]
 				1, -- [4]
 			},
-			["StacksFont"] = "Naowh",
-			["StacksTextXOffset"] = 0,
-			["MinTimeToShowTenthsOfSeconds"] = 0,
+			["UseDefaultAuraTooltip"] = false,
+			["KeepAspectRatio"] = true,
 			["ShowAurasOnPlayerNameplate"] = false,
+			["Additions_ExplosiveOrbs"] = true,
+			["SortMode"] = 2,
 			["TimerTextColorHundredPercent"] = {
 				0.1, -- [1]
 				1, -- [2]
 				0.1, -- [3]
 				1, -- [4]
 			},
-			["SortMode"] = 2,
-			["AffixSpiteful"] = true,
 			["Additions_DRPvE"] = false,
-			["InterruptsShowOnlyOnPlayers"] = true,
+			["NpcBlacklist"] = {
+			},
 			["DispelIconSizeWidth"] = 45,
-			["ShowCooldownAnimation"] = true,
+			["AlwaysShowMyAurasBlacklist"] = {
+			},
+			["ShowOnlyOnTarget"] = false,
 			["IconXOffset"] = 0,
-			["ShowAurasOnEnemyTargetEvenInDisabledAreas"] = false,
-			["IconYOffset"] = 24,
+			["ShowCooldownText"] = true,
 			["AffixSpitefulSound"] = 5274,
-			["DispelIconSizeHeight"] = 45,
+			["DefaultIconSizeHeight"] = 42,
 			["Additions_DispellableSpells_GlowType"] = 4,
-			["ShowDebuffBorders"] = true,
-			["InterruptsEnabled"] = false,
+			["DefaultIconSizeWidth"] = 42,
+			["IconGroupName"] = "First Icon Group",
 			["IconAlphaTarget"] = 1,
 			["IconAlpha"] = 1,
 			["DebuffBordersCurseColor"] = {
@@ -3391,20 +2254,19 @@ NUI.NameplateAurasData = {
 				1, -- [4]
 			},
 			["ShowStacks"] = true,
-			["InterruptsIconSizeWidth"] = 45,
+			["ShowDebuffBorders"] = true,
 			["IconSpacing"] = 2,
 			["ShowAboveFriendlyUnits"] = false,
-			["IconGroupName"] = "First Icon Group",
-			["DefaultIconSizeWidth"] = 42,
-			["KeepAspectRatio"] = true,
+			["IconYOffset"] = 24,
+			["InterruptsIconSizeWidth"] = 45,
+			["DispelIconSizeHeight"] = 45,
 			["TimerTextAnchorIcon"] = "CENTER",
-			["DefaultIconSizeHeight"] = 42,
-			["Additions_ExplosiveOrbs"] = false,
-			["NpcBlacklist"] = {
-			},
-			["TimerTextUseRelativeScale"] = true,
-			["TimerTextYOffset"] = 0,
-			["UseDefaultAuraTooltip"] = false,
+			["ShowCooldownAnimation"] = true,
+			["InterruptsShowOnlyOnPlayers"] = true,
+			["AffixSpiteful"] = true,
+			["MinTimeToShowTenthsOfSeconds"] = 0,
+			["StacksTextXOffset"] = 0,
+			["StacksFont"] = "Naowh",
 		}, -- [1]
 	},
 	["HidePlayerBlizzardFrame"] = true,
