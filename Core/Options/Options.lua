@@ -348,20 +348,6 @@ NUI.Options = {
 						NUI:ImportWeakAura(nil, nil, NUI.UIElementsData)
 					end
 				},
-				dungeons = {
-					name = "Dungeons",
-					desc = "Import the Dungeons WeakAura",
-					hidden = function()
-						if NUI.Cata or NUI.Classic then
-							return true
-						end
-					end,
-					type = "execute",
-					func = function()
-						NUI:LoadData()
-						NUI:ImportWeakAura(nil, nil, NUI.DungeonsData)
-					end
-				},
 				raid = {
 					name = "Raid",
 					desc = "Import the Raid WeakAura",
